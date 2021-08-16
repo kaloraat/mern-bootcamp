@@ -1,0 +1,14 @@
+.bg-default-image {
+  background-image: url("/images/default.jpeg");
+  background-size: 100%;
+  height: 150px;
+  text-shadow: 2px 2px 8px #000;
+}
+
+.active {
+  background: navy;
+}
+
+.logo {
+  text-shadow: 2px 2px navy;
+}
